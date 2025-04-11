@@ -8,7 +8,7 @@ This is the github repository for the paper "Deep Inverse Design for High-Level 
 
 [Vitis HLS 2023.1](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis/archive-vitis.html)
 
-The requirements for each method are contained in their respective folder.
+The requirements for each method are contained in their respective folders.
 
 # Experiments
 Run the file main.py of each method. Move the simulation results in sim_data folder of each method to did4hls/result and run adrs.py in did4hls to generate the Pareto comparison.
