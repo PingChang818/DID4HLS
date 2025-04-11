@@ -1,0 +1,8 @@
+n_res_layers: 3
+n_enc_layers: 3
+d_model: 256
+n_heads: 8
+diffusion_embedding_dim: 128
+beta_start: 0.0001
+beta_end: 0.5
+num_steps: 50

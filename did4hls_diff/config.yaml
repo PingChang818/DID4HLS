@@ -1,0 +1,11 @@
+n_it: 6
+it_size: 5
+batch_size: 16
+lambda_p: [0.0, 0.2, 0.4, 0.6, 0.8, 1.0]
+lambda_e: 3
+lr_gat: 1.0E-3
+lr_opt: 1.0E-2
+eps_gat: 500
+eps_opt: 200
+truncate: 3
+device: "cuda:0"
