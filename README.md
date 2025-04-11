@@ -11,7 +11,7 @@ This is the github repository for the paper "Deep Inverse Design for High-Level 
 The requirements for each method are contained in their respective folders.
 
 # Experiments
-Run the file main.py of each method. Move the simulation results in sim_data folder of each method to did4hls/result and run adrs.py in did4hls to generate the Pareto comparison.
+The benchmarks and their design spaces are in data folder in each method. Run the file main.py of each method. Move the simulation results in sim_data folder of each method to did4hls/result and run adrs.py in did4hls to generate the Pareto comparison.
 
 # Acknowledgements
 We made modifications to the open-sourced code of [GRASP5](https://github.com/nibst/GRASP_DSE), and re-implemented the remaining baselines as closely as possible according to their respective descriptions.
